@@ -1,0 +1,120 @@
+[{ 
+   "image":"images/background-image-three-identical-black-260nw-1831863871.jpg",
+   "type":"video",
+   "duration":8600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/concept-picture-chinese-new-year-260nw-1010531764.jpg",
+   "type":"elearning",
+   "duration":800,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/director-work-on-set-works-260nw-1859940151.jpg",
+   "type":"learning_plan",
+   "duration":3800,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+},
+{ 
+   "image":"images/frame-poster-tropical-leaf-plant-260nw-749349910.jpg",
+   "type":"playlist",
+   "duration":33600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/getting-together-your-loving-family-260nw-1840374976.jpg",
+   "type":"elearning",
+   "duration":1600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+},
+{ 
+   "image":"images/movie-concept-miniature-set-on-260nw-1727563630.jpg",
+   "type":"playlist",
+   "duration":3600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/operator-holding-clapperboard-during-production-260nw-334047899.jpg",
+   "type":"elearning",
+   "duration":3500,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+},
+{ 
+   "image":"images/beautiful-young-girl-light-natural-260nw-773687878.jpg",
+   "type":"video",
+   "duration":100,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/collage-many-pictures-juicy-oranges-260nw-1460075804.jpg",
+   "type":"playlist",
+   "duration":23600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/collage-portraits-faces-multiracial-millennial-260nw-1921006082.jpg",
+   "type":"video",
+   "duration":13600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+},
+{ 
+   "image":"images/collage-rio-de-janeiro-brazil-260nw-436083715.jpg",
+   "type":"learning_plan",
+   "duration":2600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/vintage-tv-set-on-chair-260nw-1576105501.jpg",
+   "type":"elearning",
+   "duration":2000,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/set-pictures-pretty-young-woman-260nw-279811907.jpg",
+   "type":"elearning",
+   "duration":400,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+},
+{ 
+   "image":"images/set-pastel-blue-pink-porcelain-260nw-1064901731.jpg",
+   "type":"video",
+   "duration":6300,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+},
+{ 
+   "image":"images/pretty-pictured-bicycle-on-artist-260nw-563022091.jpg",
+   "type":"learning_plan",
+   "duration":600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/preparation-shooting-concert-on-television-260nw-1708636954.jpg",
+   "type":"elearning",
+   "duration":360,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"single"
+},
+{ 
+   "image":"images/photo-frame-on-wall-3d-260nw-607423409.jpg",
+   "type":"learning_plan",
+   "duration":3600,
+   "title":"Welcome to Effective Time Management",
+   "cardinality":"collection"
+}]
+
